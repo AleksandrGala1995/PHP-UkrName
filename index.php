@@ -6,7 +6,7 @@
 <body>
 
 <form action="<?php echo $_SERVER['PHP_SELF']?>" method="post">
-    Введіть ім'я українською: <input type="text" name="name"><br>
+    Введіть ПІБ українською: <input type="text" name="name"><br>
     <input type="submit">
 </form>
 <?php
